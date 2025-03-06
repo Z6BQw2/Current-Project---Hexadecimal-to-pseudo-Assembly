@@ -1,3 +1,5 @@
 # Current-Project---Hexadecimal-to-pseudo-Assembly
-Th goal of this project is simple: Learn about the way assemblers work.
-Working in hexadecimal, my goal is to write my first assembler in an Assembly inspired language, hopefully using my coding experience (which the creators of Assembly didn't have back then || couldn't put in place due to hardware limitations) to improve the user's experience (I'm realist enough to know that 'optimising' Assembly would be quite the impossible task, so I'd rather render it more usable) 
+The goal of this project is simple: Write a pseudo-assembly (aka my own language) assembler & disassembler in hexadecimal (starting with the latter)
+As to why I'm going to do that, when it doesn't relate to my other projects, my applications, or even anything I'm studying, the answer is simple: I have no idea.
+I mean, I was wondering how it worked, so I went 'Heh, we'll see'. There wasn't much more thought put into it.
+But I swear it's fun, you should try too :)
